@@ -1,0 +1,929 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Przemek\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishChallenge3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishChallenge3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishChalleng2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishChalleng2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishChalleng1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishChalleng1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\ChangeScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ChangeScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\LevelSelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LevelSelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\WallMovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WallMovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\WelcomePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WelcomePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Finishscripts\\FinishLevel7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Spinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Spinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\PressE2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PressE2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\PlatformTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlatformTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pieniazek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pieniazek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pendulum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pendulum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pedulum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pedulum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pauza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pauza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\MazeVisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MazeVisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Level002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Level002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\GameVolumeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameVolumeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FallPlat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FallPlat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FallingBlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FallingBlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FailingBlock2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FailingBlock2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\CountDownManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CountDownManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Bounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Bounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\AutomaticDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AutomaticDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\AutoDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AutoDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\AddGravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AddGravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\MenadzerPunktow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenadzerPunktow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\IceSurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\IceSurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\DeathZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DeathZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Asety\\ObstacleCoursePack\\Scripts\\FPSDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Asety\\ObstacleCoursePack\\Scripts\\FPSDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\RotateCoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RotateCoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishChallenge3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishChallenge3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishChalleng1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishChalleng1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishChalleng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishChalleng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FinishLevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Przemek\\My project\\Assets\\Scripts\\MenuMusicController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuMusicController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinishLevel4.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel4.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel4.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:10:27.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinishLevel3.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel3.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel3.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:10:25.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinishLevel2.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel2.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel2.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:10:23.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinishLevel1.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel1.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:09:45.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinishChalleng1.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishChalleng1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishChalleng1.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishChalleng1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishChalleng1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwEMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:07:08.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinishChalleng2.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishChalleng2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishChalleng2.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishChalleng2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishChalleng2.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:13:00.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinishChallenge3.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishChallenge3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishChallenge3.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishChallenge3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishChallenge3.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:31:07.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Rotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:08:08.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Spinner.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Spinner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spinner.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Spinner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spinner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:08:22.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WallMovable.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\WallMovable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WallMovable.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\WallMovable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WallMovable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:08:51.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeScene.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\ChangeScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeScene.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\ChangeScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeScene.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:53:16.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelSelection.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\LevelSelection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelSelection.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\LevelSelection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelSelection.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAE8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:18:07.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WelcomePanel.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\WelcomePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WelcomePanel.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\WelcomePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WelcomePanel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:09:08.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FinishLevel5.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel5.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel5.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel5.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel5.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:10:28.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinishLevel6.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel6.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel6.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel6.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel6.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:10:30.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FinishLevel7.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel7.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel7.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel7.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel7.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:10:31.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FinishLevel8.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel8.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel8.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel8.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel8.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:10:33.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FinishLevel9.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel9.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel9.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel9.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel9.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:10:36.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinishLevel10.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel10.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finishscripts\\FinishLevel10.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Finishscripts\\FinishLevel10.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finishscripts\\FinishLevel10.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:10:38.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlatformTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\PlatformTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformTrigger.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\PlatformTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:07:26.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Pieniazek.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pieniazek.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pieniazek.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pieniazek.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pieniazek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:07:22.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Pendulum.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pendulum.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pendulum.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pendulum.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pendulum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:07:03.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MazeVisibility.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\MazeVisibility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MazeVisibility.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\MazeVisibility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MazeVisibility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:05:57.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Level002.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Level002.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level002.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Level002.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level002.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:04:46.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameVolumeController.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\GameVolumeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameVolumeController.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\GameVolumeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameVolumeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:03:45.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FallPlat.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FallPlat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FallPlat.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FallPlat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FallPlat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:03:43.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FallingBlock.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FallingBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FallingBlock.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FallingBlock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FallingBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:03:41.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FailingBlock2.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FailingBlock2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FailingBlock2.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FailingBlock2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FailingBlock2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:03:37.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CountDownManager.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\CountDownManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CountDownManager.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\CountDownManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CountDownManager.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:02:45.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Bounce.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Bounce.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bounce.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Bounce.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bounce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:02:32.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:24:08.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AutomaticDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\AutomaticDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutomaticDoor.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\AutomaticDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutomaticDoor.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:02:02.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PressE2.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\PressE2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PressE2.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\PressE2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PressE2.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:03:24.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AutoDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\AutoDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoDoor.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\AutoDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutoDoor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:01:33.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddGravity.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\AddGravity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AddGravity.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\AddGravity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AddGravity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:35:43.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pedulum.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pedulum.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pedulum.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pedulum.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pedulum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:31:46.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pauza.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pauza.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pauza.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\Pauza.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pauza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:55:16.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MenadzerPunktow.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\MenadzerPunktow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenadzerPunktow.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\MenadzerPunktow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenadzerPunktow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:46:43.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FinishLevel10.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel10.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel10.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel10.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel10.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:44:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IceSurface.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\IceSurface.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IceSurface.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\IceSurface.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IceSurface.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:26:27.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FPSDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Asety\\ObstacleCoursePack\\Scripts\\FPSDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Asety\\ObstacleCoursePack\\Scripts\\FPSDisplay.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Asety\\ObstacleCoursePack\\Scripts\\FPSDisplay.cs",
+              "RelativeToolTip": "Assets\\Asety\\ObstacleCoursePack\\Scripts\\FPSDisplay.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:44:08.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FinishLevel9.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel9.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel9.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel9.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel9.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:44:09.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FinishLevel8.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel8.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel8.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel8.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel8.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:44:07.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FinishLevel5.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel5.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel5.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel5.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel5.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:43:57.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DeathZone.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\DeathZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathZone.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\DeathZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:11:15.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FinishLevel6.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel6.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel6.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel6.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel6.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:44:00.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FinishLevel7.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel7.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel7.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel7.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel7.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:44:05.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FinishLevel4.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel4.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel4.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:43:27.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAYwDcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:48:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RotateCoin.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\RotateCoin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateCoin.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\RotateCoin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateCoin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:08:56.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FinishLevel3.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel3.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel3.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:43:00.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FinishLevel1.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel1.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:41:54.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FinishChalleng.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishChalleng.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishChalleng.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishChalleng.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishChalleng.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:40:50.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FinishChalleng1.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishChalleng1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishChalleng1.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishChalleng1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishChalleng1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:42:21.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FinishChallenge3.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishChallenge3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishChallenge3.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishChallenge3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishChallenge3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:48:37.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MenuMusicController.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\MenuMusicController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuMusicController.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\MenuMusicController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuMusicController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T20:29:12.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FinishLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel.cs",
+              "ToolTip": "C:\\Users\\Przemek\\My project\\Assets\\Scripts\\FinishLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwD0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:53:05.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
